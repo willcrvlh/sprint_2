@@ -1,0 +1,21 @@
+id_aluno PK,nome_aluno,cpf,email,turma
+1,Sophia Carolina da Luz,2147483647,sophia_daluz@helpvale.com.br,T1
+2,Maria Jessica Ferreira,2147483651,maria_jessica_ferreira@tkk.com.br,T2
+3,Caua Renato Campos,2147483655,cauarenatocampos@emayl.com,T3
+4,Tereza Carolina Alessandra Souza,2147483659,tereza.carolina.souza@panfletosecia.com,T4
+5,Paulo Ian Bryan Carvalho,2147483663,pauloiancarvalho@br.ibn.com,T5
+6,Manoel Giovanni Manoel Nascimento,2147483667,manoel-nascimento88@bool.com.br,T6
+7,Eduarda Simone Daiane Silveira,2147483671,eduarda_silveira@gruposimoes.com.br,T7
+8,Bernardo Nelson Rafael Jesus,2147483675,bernardo_nelson_jesus@alwan.com.br,T8
+9,Marlene Vera Jaqueline Lima,2147483679,marlene.vera.lima@cruiser.com.br,T9
+10,Larissa Aparecida Moura,2147483683,larissaaparecidamoura@dmarquivo.com.br,T10
+11,Claudio Ruan Carlos Eduardo Nogueira,2147483687,claudio_nogueira@moncoes.com.br,T11
+12,Alana Leticia Marlene da Costa,2147483691,alana-dacosta86@br.rhodia.com,T12
+13,Cristiane Rafaela Fernandes,2147483695,cristianerafaelafernandes@predilectasorocaba.com.br,T13
+14,Clara Giovana Debora Assuncao,2147483699,clara-assuncao90@zignani.com.br,T14
+15,Bianca Ayla Agatha da Rosa,2147483703,bianca_darosa@trbvm.com,T15
+16,Caleb Erick Kevin Baptista,2147483707,caleberickbaptista@suplementototal.com.br,T16
+17,Giovana Manuela Marli Peixoto,2147483711,giovana_manuela_peixoto@vinax.com.br,T17
+18,Carolina Catarina Viana,2147483715,carolina_viana@br.festo.com,T18
+19,Silvana Daniela Ester dos Santos,2147483719,silvana-dossantos86@simoesmendonca.adv.br,T19
+20,Regina Elisa da Cunha,2147483723,reginaelisadacunha@uol.com,T20

@@ -1,0 +1,21 @@
+id_turmas PK,qtd_alunos FK,nome_turma,facilitador_Tech,Facilitador_soft
+1,50,T1,Heitor da Costa Filho,Filipe Fernando Kauê Cavalcanti
+2,50,T2,Mateus Giovanni Ruan Gonçalves,Priscila Olivia Nascimento
+3,50,T3,Elaine Jennifer Milena Aparício,Eduarda Camila Caldeira
+4,50,T4,Sebastião Alexandre da Costa,Noah Cauã da Cunha
+5,50,T5,Noah Marcos Vinicius da Paz,Márcia Analu Fernandes
+6,50,T6,Nicolas Heitor Ryan Castro,Sara Marcela dos Santos
+7,50,T7,Pietra Laura Flávia Barros,Tânia Evelyn Rafaela Mendes
+8,50,T8,Larissa Brenda Andreia Mendes,Jorge Oliver Corte Real
+9,50,T9,Valentina Alícia Barbosa,Arthur Murilo Lima
+10,50,T10,Augusto Samuel Kauê Fogaça,Nathan Thales Noah da Mota
+11,50,T11,Rosa Ayla Ribeiro,Ester Louise Barbosa
+12,50,T12,Helena Lívia Isabella Silveira,Roberto Augusto Martins
+13,50,T13,Tânia Lorena Farias,Roberto Ruan Mendes
+14,50,T14,Iago Renan Benedito de Paula,Vanessa Louise Rezende
+15,50,T15,Sophie Olivia Pereira,Theo Raul Silva
+16,50,T16,Renan Isaac Aragão,Sabrina Lúcia da Rocha
+17,50,T17,Bianca Sabrina Bernardes,Aparecida Fátima da Rosa
+18,50,T18,Rodrigo Daniel Rafael Vieira,Sophia Stefany Peixoto
+19,50,T19,Julio Bento Figueiredo,Ricardo César Almada
+20,50,T20,Oliver Eduardo Raul das Neves,Sabrina Rayssa Giovana Viana
